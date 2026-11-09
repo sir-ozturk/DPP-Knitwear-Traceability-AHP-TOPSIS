@@ -105,6 +105,7 @@ Bu dokümanda işletmenin müşteri,
 sipariş, çalışan ve ticari üretim kayıtları
 paylaşılmamaktadır.
 
+[Ön Süreç Akış Şemasını Görüntüle](surec-akis-semasi.md)
 Gelecekte yayımlanacak örnekler,
 gerekli izinler alınarak anonimleştirilecektir.
 
