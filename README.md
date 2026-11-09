@@ -87,6 +87,7 @@ flowchart TD
 | [Süreç Akış Şeması](mevcut-surec/surec-akis-semasi.md) | Kavramsal üretim süreci gösterimi |
 | [AHP ve TOPSIS](ahp-topsis/README.md) | Çok kriterli karar verme yaklaşımı |
 | [Süreç Tasarımı](onerilen-surec/README.md) | Alternatif izlenebilirlik süreçleri |
+| [Görseller ve Diyagramlar](gorseller/README.md) | Proje şemaları ve veri akış gösterimleri |
 
 ---
 
