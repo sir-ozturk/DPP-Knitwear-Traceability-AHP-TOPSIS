@@ -1,0 +1,52 @@
+# Gizli bilgiler ve yerel erişim ayarları
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+credentials*
+secrets*
+
+# Gerçek işletme verileri ve yerel araştırma materyalleri
+/veri/
+/data/
+/ozel/
+/private/
+/saha-verileri/
+/erp-kayitlari/
+/qr-ornekleri/
+/kaynak-pdfleri/
+/sources/
+/yerel-notlar/
+
+# Kaynak tam metinleri ve özgün raporlar yanlışlıkla eklenmesin.
+# Yayımlanması uygun bulunan belgeler tek tek incelenerek ele alınır.
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.7z
+*.rar
+
+# Geçici dosyalar ve uygulama artıkları
+~$*
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+__pycache__/
+.venv/

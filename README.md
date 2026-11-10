@@ -35,11 +35,11 @@ Alternatiflerin değerlendirilmesinde **AHP (Analitik Hiyerarşi Prosesi)** ve *
 
 Bununla birlikte, üretim ve konfeksiyon süreçlerindeki kayıtların bitmiş ürünle ilişkilendirilmesi açısından geliştirilmesi gereken alanlar bulunmaktadır.
 
-Araştırmanın odaklandığı başlıca sorunlar:
+Ön bilgilere dayalı, saha doğrulaması bekleyen başlıca araştırma alanları:
 
 - Çuval ile bitmiş ürün arasındaki veri bağlantısının sınırlı olması
 - Üretim kayıtlarında eksik veri bulunabilmesi
-- Fire bilgilerinin düzenli kaydedilmemesi
+- Fire bilgilerinin kayıt düzeninin incelenmesi
 - Süreçler arasında kayıt sürekliliğinin sağlanması ihtiyacı
 - İzlenebilirlik kapsamının mevcut altyapıyla geliştirilmesi
 
@@ -81,6 +81,8 @@ flowchart TD
 | Bölüm | Açıklama |
 |---|---|
 | [Proje Dokümantasyonu](docs/README.md) | Problem tanımı, araştırma amacı ve kapsam |
+| [Proje Durumu](docs/proje-durumu.md) | Tamamlanan çalışmalar, açık işler ve sonraki adımlar |
+| [Veri ve Paylaşım İlkeleri](docs/veri-paylasim-ilkeleri.md) | Gizlilik, örnek veri ve yayımlama sınırları |
 | [Literatür Araştırması](literatur/README.md) | Araştırma alanları ve literatür değerlendirmesi |
 | [Akademik Kaynakça](literatur/kaynakca.md) | Ara raporda kullanılan 9 kaynak |
 | [Mevcut Üretim Süreci](mevcut-surec/README.md) | QR kod tabanlı izlenebilirliğin ön incelemesi |
@@ -114,6 +116,7 @@ Alternatif izlenebilirlik süreçlerinin, AHP ile elde edilen kriter ağırlıkl
 | Literatür araştırması | Tamamlandı |
 | Ara rapor taslağının hazırlanması | Tamamlandı |
 | Danışman değerlendirmesi | Bekleniyor |
+| Ara rapor son biçim, PDF ve imza kontrolleri | Açık |
 | Ara rapor teslimi | Bekleniyor |
 | Saha verilerinin doğrulanması | Planlandı |
 | Alternatif süreçlerin kesinleştirilmesi | Planlandı |
@@ -160,3 +163,7 @@ Bu depo akademik çalışmanın yöntemini, kapsamını ve paylaşılabilir dok�
 İşletmeye ait gizli üretim verileri, müşteri bilgileri ve ticari kayıtlar yayımlanmayacaktır.
 
 Proje devam etmektedir. Saha analizleri ve karar verme sonuçları, tamamlandıkça ve gerekli paylaşım izinleri alındıkça güncellenecektir.
+
+Ayrıntılar: [Veri ve Paylaşım İlkeleri](docs/veri-paylasim-ilkeleri.md) · [Telif ve Kullanım](TELIF.md).
+
+Bu depo için açık kaynak lisansı verilmemiştir. Üçüncü taraf kaynakların hakları kendi hak sahiplerine aittir.

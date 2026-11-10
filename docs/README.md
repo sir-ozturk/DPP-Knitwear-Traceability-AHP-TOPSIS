@@ -9,9 +9,9 @@ Araştırmada mevcut QR kod tabanlı üretim takip yapısı ele alınmakta ve ç
 
 ## 2. Problem Tanımı
 
-İncelenen işletmede üretimden konfeksiyona gönderilen çuvallar QR kodlarla tanımlanmaktadır. Ancak mevcut kayıt yapısı, çuval ile bitmiş ürün arasında kesintisiz ve doğrulanabilir bir ilişki kurulması açısından sınırlılıklar içermektedir.
+Ön bilgilere göre işletmede üretimden konfeksiyona gönderilen çuvallar QR kodlarla tanımlanmaktadır. Mevcut kayıt yapısının çuval ile bitmiş ürün arasında kesintisiz ve doğrulanabilir bir ilişki kurma düzeyi saha çalışmasında incelenecektir.
 
-Üretim kayıtlarındaki eksiklikler, fire bilgilerinin düzenli tutulmaması ve süreçler arasındaki veri bağlantısının yetersizliği izlenebilirliğin geliştirilmesini gerekli kılmaktadır.
+Üretim kayıtlarının eksiksizliği, fire bilgilerinin kayıt düzeni ve süreçler arasındaki veri bağlantısı ön incelemede belirlenen araştırma alanlarıdır. Bu alanlara ilişkin eksikliklerin varlığı ve kapsamı henüz gerçek kayıtlarla doğrulanmamıştır.
 
 ## 3. Projenin Amacı
 
@@ -34,7 +34,7 @@ hedeflenmektedir.
 
 İşletmenin mevcut üretim ve konfeksiyon süreçlerinden elde edilecek bilgiler, alternatif süreç tasarımlarının oluşturulmasında kullanılacaktır.
 
-Proje yeni bir yazılım geliştirmeyi değil, mevcut işletme koşullarına uygun süreç tasarımını esas almaktadır.
+Proje yeni bir yazılım geliştirmeyi değil, mevcut işletme koşullarına uygun süreç tasarımını esas almaktadır. Çalışma DÜP hazırlığına odaklanır; tamamlanmış bir ürün pasaportu sistemi veya mevzuata uygunluk belgesi sunmaz.
 
 ## 5. Araştırma Yöntemi
 
@@ -48,13 +48,17 @@ Alternatif izlenebilirlik süreçlerini ağırlıklandırılmış kriterler aç�
 
 ## 6. Çalışmanın Durumu
 
+**Güncel ayrıntılı durum:** [Proje Durumu](proje-durumu.md)
+
 **Tamamlanan çalışmalar**
+
 - Proje konusunun belirlenmesi
 - Araştırma amacı ve kapsamının oluşturulması
 - Literatür taraması
 - Ara rapor taslağının hazırlanması
 
 **Planlanan çalışmalar**
+
 - Saha verilerinin doğrulanması
 - Süreç alternatiflerinin geliştirilmesi
 - AHP ve TOPSIS analizleri
