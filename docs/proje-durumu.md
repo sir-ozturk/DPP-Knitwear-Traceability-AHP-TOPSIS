@@ -10,7 +10,7 @@ Bu kayıt, rapor hazırlığını saha uygulaması ve karar verme sonuçlarında
 
 - Proje konusu, problem, amaç, araştırma sorusu ve kapsamın tanımlanması.
 - Ara rapor kapsamında literatür araştırması.
-- Dokuz kaynaklı kaynakça ve kaynak özetlerinin ara raporda hazırlanması.
+- İlk dokuz kaynaklı ara rapor çalışmasının ardından literatür, kaynakça ve kaynak özetlerinin 17 kaynaklı güncel çalışma dosyasında hazırlanması.
 - END401 şablonuna göre ara rapor taslağının hazırlanması.
 - Kavramsal süreç ve veri ilişkisi şemalarının hazırlanması.
 
@@ -20,7 +20,7 @@ Kaynak özetlerinin ara raporda hazır olması, tam raporun veya özetlerin tama
 
 | Çalışma | Durum |
 |---|---|
-| Dokuz kaynağın yeterliliğine ilişkin danışman görüşü | Bekleniyor |
+| Güncel kaynakçanın yeterliliğine ilişkin danışman görüşü | Bekleniyor |
 | Danışman geri bildirimlerine göre gerekli düzeltmeler | Bekleniyor |
 | Son biçim, PDF sayfa düzeni ve gerekli imza kontrolleri | Açık |
 | Ara rapor teslimi ve teslim teyidi | Bekleniyor |

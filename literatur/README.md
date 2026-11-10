@@ -63,7 +63,7 @@ bilgi bağlantısı birlikte ele alınmaktadır.
 
 ## 5. Kaynakça
 
-Ara raporda kullanılan 9 kaynağın bibliyografik bilgileri ve DOI/resmî erişim bağlantıları [Akademik Kaynakça](kaynakca.md) dosyasında sunulmaktadır.
+Güncel literatür çalışmasındaki 17 kaynağın bibliyografik bilgileri ve DOI/resmî erişim bağlantıları [Akademik Kaynakça](kaynakca.md) dosyasında sunulmaktadır.
 
 Kaynakların tam metinleri yerine,
 yasal erişim bağlantıları ve araştırma
@@ -74,5 +74,5 @@ kapsamındaki değerlendirmeleri paylaşılacaktır.
 - [x] Literatür araştırması
 - [x] Kaynak özetlerinin hazırlanması
 - [x] Literatürün proje yöntemiyle ilişkilendirilmesi
-- [x] Dokuz kaynaklı kaynakçanın GitHub'a aktarılması
+- [x] 17 kaynaklı güncel kaynakçanın GitHub'a aktarılması
 - [ ] Danışman kaynak yeterliliği değerlendirmesi

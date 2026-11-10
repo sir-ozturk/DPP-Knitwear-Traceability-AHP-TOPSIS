@@ -84,7 +84,7 @@ flowchart TD
 | [Proje Durumu](docs/proje-durumu.md) | Tamamlanan çalışmalar, açık işler ve sonraki adımlar |
 | [Veri ve Paylaşım İlkeleri](docs/veri-paylasim-ilkeleri.md) | Gizlilik, örnek veri ve yayımlama sınırları |
 | [Literatür Araştırması](literatur/README.md) | Araştırma alanları ve literatür değerlendirmesi |
-| [Akademik Kaynakça](literatur/kaynakca.md) | Ara raporda kullanılan 9 kaynak |
+| [Akademik Kaynakça](literatur/kaynakca.md) | Güncel literatür çalışmasındaki 17 kaynak |
 | [Mevcut Üretim Süreci](mevcut-surec/README.md) | QR kod tabanlı izlenebilirliğin ön incelemesi |
 | [Süreç Akış Şeması](mevcut-surec/surec-akis-semasi.md) | Kavramsal üretim süreci gösterimi |
 | [AHP ve TOPSIS](ahp-topsis/README.md) | Çok kriterli karar verme yaklaşımı |
