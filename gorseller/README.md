@@ -9,7 +9,7 @@ açıklayan diyagramları içermektedir.
 
 | Diyagram | Durum |
 |---|---|
-| Ön üretim süreç akışı | Hazır |
+| Ön üretim süreç akışı | Kavramsal taslak hazır; saha doğrulaması bekleniyor |
 | İzlenebilirlik veri ilişkileri | Kavramsal taslak |
 | AHP karar hiyerarşisi | Planlandı |
 | TOPSIS değerlendirme modeli | Planlandı |

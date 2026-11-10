@@ -65,9 +65,7 @@ bilgi bağlantısı birlikte ele alınmaktadır.
 
 Güncel literatür çalışmasındaki 17 kaynağın bibliyografik bilgileri ve DOI/resmî erişim bağlantıları [Akademik Kaynakça](kaynakca.md) dosyasında sunulmaktadır.
 
-Kaynakların tam metinleri yerine,
-yasal erişim bağlantıları ve araştırma
-kapsamındaki değerlendirmeleri paylaşılacaktır.
+Kaynakların tam metinleri yayımlanmaz. Kaynakçada DOI ve resmî erişim bağlantıları, bu bölümde ise araştırma kapsamındaki genel değerlendirme sunulmaktadır.
 
 ## 6. Araştırma Durumu
 

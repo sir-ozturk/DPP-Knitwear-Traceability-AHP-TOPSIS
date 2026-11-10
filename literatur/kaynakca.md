@@ -3,6 +3,7 @@
 Bu bölüm, “Bir Triko İşletmesinde Dijital Ürün Pasaportuna Hazırlık Kapsamında İzlenebilirlik Sürecinin AHP ve TOPSIS Yöntemleriyle Tasarlanması” başlıklı bitirme projesinin güncel literatür ve kaynakça çalışmasındaki kaynakları içerir.
 
 **Güncel kaynak sayısı:** 17
+
 **Son güncelleme:** 11 Kasım 2026
 
 İlk dokuz kaynaklı listeye sekiz kaynak eklenmiştir. Kaynakça, güncel 17 kaynaklı literatür çalışma dosyası esas alınarak düzenlenmiştir; danışman değerlendirmesi ve ara rapor teslimi tamamlanmış değildir.
@@ -114,6 +115,8 @@ Legardeur, J., & Ospital, P. (2024). Digital product passport for the textile se
 
 **DOI:** [https://doi.org/10.2861/947638](https://doi.org/10.2861/947638)
 
+**Resmî yayın sayfası:** [Avrupa Parlamentosu — çalışma kaydı](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU%282024%29757808)
+
 **Konu:** Tekstil Sektörüne Yönelik Dijital Ürün Pasaportu Modeli
 
 
@@ -158,6 +161,8 @@ Santana, S., & Ribeiro, A. (2022). Traceability models and traceability systems 
 United Nations Economic Commission for Europe. (2022). Recommendation No. 46: Enhancing traceability and transparency of sustainable value chains in the garment and footwear sector (ECE/TRADE/463). United Nations.
 
 **Resmî erişim bağlantısı:** [https://unece.org/sites/default/files/2022-01/ECE-TRADE-463E.pdf](https://unece.org/sites/default/files/2022-01/ECE-TRADE-463E.pdf)
+
+**Resmî yayın sayfası:** [UNECE — Tavsiye No. 46](https://unece.org/trade/publications/recommendation-no46-enhancing-traceability-and-transparency-sustainable-value)
 
 **Konu:** Giyim ve Ayakkabı Değer Zincirlerinde İzlenebilirlik ve Şeffaflık
 

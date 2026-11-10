@@ -14,7 +14,7 @@ Bu kayıt, rapor hazırlığını saha uygulaması ve karar verme sonuçlarında
 - END401 şablonuna göre ara rapor taslağının hazırlanması.
 - Kavramsal süreç ve veri ilişkisi şemalarının hazırlanması.
 
-Kaynak özetlerinin ara raporda hazır olması, tam raporun veya özetlerin tamamının bu depoda yayımlandığı anlamına gelmez. Paylaşılabilir kaynakça [buradadır](../literatur/kaynakca.md).
+Kaynak özetlerinin güncel literatür çalışma dosyasında hazır olması, tam raporun veya özetlerin tamamının bu depoda yayımlandığı anlamına gelmez. Paylaşılabilir kaynakça [buradadır](../literatur/kaynakca.md).
 
 ## Açık işler
 
